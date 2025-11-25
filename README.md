@@ -51,7 +51,7 @@ os
 
 Installation & Usage:
 1️)Clone the repository
--> git clone https://github.com/bikas-yadav/todo-cli-python.git
+-> git clone https://github.com/bikas-yadav/CLI-based-To-Do-Application.git
    cd todo-cli-python
 
 2️)Run the application
